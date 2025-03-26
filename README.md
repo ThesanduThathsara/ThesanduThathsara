@@ -1,16 +1,23 @@
-## Hi there 👋
+## 🧑‍💻 About me
 
-<!--
-**ThesanduThathsara/ThesanduThathsara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/thesandu-thathsara) -->
 
-Here are some ideas to get you started:
+I am a self-motivated Software Engineering student with hands-on experience in programming languages 
+like Java, Python, and JavaScript. I am passionate about learning new technologies and improving my 
+skills, and I am eager to apply my knowledge to real-world software development challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tech Stack
+
+```javascript
+
+const techStack={
+  programmingLanguages: ["Java", "Python", "JavaScript"], 
+  webTechnologies: ["HTML", "CSS", "React", "Tailwind CSS"], 
+  frameworks: ["Spring-Boot" , "Bootstrap"], 
+  databaseSystems: ["MySQL"]
+};
+```
+
+<!--## 🚀 Key Projects-->
+## 📫 Connect With Me
+- **LinkedIn**: [in/ThesanduThathsara](www.linkedin.com/in/thesandu-thathsara)
