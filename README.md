@@ -19,5 +19,6 @@ const techStack={
 ```
 
 <!--## 🚀 Key Projects-->
-## 📫 Connect With Me
+<!--## 📫 Connect With Me
 - **LinkedIn**: [in/ThesanduThathsara](www.linkedin.com/in/thesandu-thathsara)
+-->
